@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://unoai-1.onrender.com/api';
+const API_BASE_URL = 'http://43.204.232.146:3001/api';
 export const gameApi = {
   startNewGame: async () => {
     const response = await fetch(`${API_BASE_URL}/start-game`, {
