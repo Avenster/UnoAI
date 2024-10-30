@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import HomePage from './HomePage';
 import UnoGame from './components/UnoGame';
-import './App.css';
+import './css/App.css';
 
 function App() {
   const [showGame, setShowGame] = useState(false);
