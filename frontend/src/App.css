@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  /* overflow: hidden; */
+  
+}body{
+  background-color: rgb(17 24 39);
+  
+
+}
+
+.app{
+  height: 100vh;
+  max-height: 120vh;
+  /* background-color: pink; */
+  width: 100%;
+}
+.main{
+  background: linear-gradient(14deg, rgba(2,0,36,1) 0%, rgba(0,0,0,1) 48%, rgba(0,212,255,0.217546393557423) 100%);
+}
