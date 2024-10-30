@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:3001/api';
+const API_BASE_URL = 'https://unoai-1.onrender.com/api';
 
 export const gameApi = {
   startNewGame: async () => {
